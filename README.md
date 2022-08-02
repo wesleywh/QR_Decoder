@@ -8,9 +8,9 @@ Important Note: I made this to personally work with Google Authenticator and Bit
 
 # Installation Steps
 1. brew install zbar
-    - if M1 mac:
-        a. mkdir ~/lib
-        b. ln -s $(brew --prefix zbar)/lib/libzbar.dylib ~/lib/libzbar.dylib
+    - if M1 mac:<br/>
+        a. mkdir ~/lib<br/>
+        b. ln -s $(brew --prefix zbar)/lib/libzbar.dylib ~/lib/libzbar.dylib<br/>
     - if windows, this comes pre-installed can skip
     - if linux apt-get install zbar
 2. pip install -r requirements.txt -t "full/path/to/this/dir"
