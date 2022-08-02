@@ -4,6 +4,8 @@ your qr code values from your authenticator app. I made this so I could easily t
 base codes from one authenticator app into any other without having to turn off 2fa and turn it back on
 for the purpose of just having it in more than one place.
 
+Important Note: I made this to personally work with Google Authenticator and BitWarden, so I have tried any of the others.
+
 # Installation Steps
 1. brew install zbar
     - if M1 mac:
