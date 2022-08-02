@@ -43,6 +43,6 @@ The `start_webcam.py` file, like the name suggests, will only start your webcam.
 itself. I only kept this for learning how to do this yourself.
 
 ## Made Possible By
-This is simply extractions and slight modifications from the following places:
-https://github.com/scito/extract_otp_secret_keys
-https://note.nkmk.me/en/python-pillow-qrcode/
+This is simply extractions and slight modifications from the following places:<br/>
+https://github.com/scito/extract_otp_secret_keys<br/>
+https://note.nkmk.me/en/python-pillow-qrcode/<br/>
