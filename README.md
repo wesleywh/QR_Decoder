@@ -46,3 +46,5 @@ itself. I only kept this for learning how to do this yourself.
 This is simply extractions and slight modifications from the following places:<br/>
 https://github.com/scito/extract_otp_secret_keys<br/>
 https://note.nkmk.me/en/python-pillow-qrcode/<br/>
+https://pyimagesearch.com/2018/05/21/an-opencv-barcode-and-qr-code-scanner-with-zbar/<br/>
+https://github.com/meticulousCraftman/QR-Code
