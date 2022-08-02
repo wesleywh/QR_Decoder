@@ -1,0 +1,6 @@
+opencv-python
+pyzbar
+imutils
+protobuf==3.20.*
+pillow
+qrcode
