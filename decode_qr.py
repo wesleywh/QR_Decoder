@@ -1,6 +1,4 @@
 # import the necessary packages
-from imutils.video import VideoStream
-from pyzbar import pyzbar
 import argparse
 import datetime
 import imutils
@@ -8,6 +6,8 @@ import time
 import cv2
 import google_auth_pb2
 import os
+from imutils.video import VideoStream
+from pyzbar import pyzbar
 from base64 import b64decode, b32encode
 from urllib.parse import parse_qs, urlparse, quote, urlencode
 from qrcode import make
@@ -86,6 +86,7 @@ while True:
                 print(f"ALGORITHM: {params.algorithm}")
                 print(f"DIGITS: {params.digits}")
                 print(f"TYPE: {params.type}")
+                print(f"URL: {otp_url}")
                 print("")
 
                 if (args["generate"] != "False"):
